@@ -1,0 +1,8 @@
+Jawaban 2.2 Percobaan 2: Memanfaatkan Scanner dan Perulangan untuk Input dan 
+Output pada Array 2 Dimensi
+
+1. Pengisian array tidak harus urut mulai indeks 0, sebenernya bebas mengisi elemen mana saja selama indeksnya valid
+2. done
+3. done
+4. done
+5. done
