@@ -1,0 +1,28 @@
+Jawaban 2.1 Percobaan 1: Deklarasi, Inisialisasi, dan Menampilkan Array 2 Dimensi
+
+1. ngga harus mengisi array dari elemen ke-0 secara urut, yang penting indeks yang digunakan valid dan tidak melewati ukuran array
+2. karena elemen array tersebut tidak diberi nilai, sehingga Java memberi nilai default yaitu null untuk tipe String
+3. done
+4.  penonton.length digunakan untuk mengetahui jumlah baris pada array dua dimensi
+    iyaa, semuanya bernilai sama (2), karena array dibuat dengan 2 kolom per baris
+5. done
+6. done
+7. done
+8. done
+9. done
+10. Menurut saya Kelebihan foreach loop yaitu :
+- Lebih sederhana dan mudah dibaca
+- Mengurangi risiko ArrayIndexOutOfBounds
+- Cocok untuk iterasi penuh
+- Lebih aman untuk iterasi tanpa modifikasi indeks
+
+Kekurangan foreach loop
+- Tidak bisa mengakses indeks secara langsung
+- Tidak bisa memodifikasi elemen array dua dimensi secara langsung
+- Tidak cocok jika perlu kontrol penuh atas iterasi
+- Tidak bisa memanipulasi posisi (indeks) dengan fleksibel
+11. indeks baris maksimal untuk array penonton adalah 3
+12. indeks kolom maksimal untuk array penonton adalah 1.
+13. Fungsinya yaitu :
+- Menggabungkan beberapa string menjadi satu
+- Menambahkan karakter pemisah di antara setiap elemen
