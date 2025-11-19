@@ -1,0 +1,7 @@
+Jawaban 2.3 Percobaan 3: Array 2 Dimensi dengan Length Baris Berbeda
+
+1. done
+2. fungsinya mengubah array menjadi tampilan string yang rapi, mudah dibaca, dan cocok untuk ditampilkan ke layar
+3. nilai defaultnya adalah 0
+4. done
+5. Panjang array di Java tidak dapat diubah setelah array tersebut diinstansiasi 
